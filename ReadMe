@@ -1,0 +1,6 @@
+Project = %APP_NAME%
+User_ID = %APP_ID%
+Type    = %APP_TYPE%
+Version = %APP_VERSION%
+Owner   = %APP_OWNER_NAME%
+Email   = %APP_OWBER_EMAIL%
